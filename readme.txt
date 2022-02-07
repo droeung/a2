@@ -1,4 +1,4 @@
---Readme document for *author*--
+--Readme document for Darina Roeung, droeung@uci.edu, ID: 61979577--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
